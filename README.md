@@ -19,7 +19,10 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 - [Projeto 1 - Public Private Bets](https://github.com/NiuanSouza/Public-Private-Bets): Código de um site de aposta nomeado de "Public Private Bets" desenvolvido como um projeto pessoal para testar aplicações de front e back end, utilizando PHP, HTML, CSS, Javascript e Sql.
 
-- [Projeto 2](link_projeto2): Descrição breve do projeto.
+- [Projeto 2 - Diagrama Fazenda Urbana ](https://github.com/NiuanSouza/Trabalho-4-Semestre): Trabalho didático sobre a elaboração de Diagramas para um sistema de fazenda urbana com estrutura orientada a objeto.
+
+
+
 
 ## 📫 Como me encontrar
 
