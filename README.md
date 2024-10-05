@@ -26,7 +26,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 ## 📫 Como me encontrar
 
-- LinkedIn: [Niuan Spolidorio](https://www.linkedin.com/in/niuan-souza](https://www.linkedin.com/in/niuan-spolidorio-da-rocha-souza-8ba650215/))
+- LinkedIn: [Niuan Spolidorio](https://br.linkedin.com/in/niuan-spolidorio-da-rocha-souza-8ba650215)
 - Email: niuan.spolid@hotmail.com
 
 ## ⚡ Curiosidades sobre mim
