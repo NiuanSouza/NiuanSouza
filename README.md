@@ -19,7 +19,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 - [Projeto 1 - Public Private Bets](https://github.com/NiuanSouza/Public-Private-Bets): Código de um site de aposta nomeado de "Public Private Bets" desenvolvido como um projeto pessoal para testar aplicações de front e back end, utilizando PHP, HTML, CSS, Javascript e Sql.
 
-  - [Projeto 2 - Fazenda Urbana - Green City]([https://github.com/math20122004/pimIV-Fazenda-Urbana]): Confecção de Site de grenciamento de fazenda Urbana multiplatarforma, com 3 projetos diferentes, para desktop foi utilizado C# Visual Studio - Windows Forms, para Web Html, CSS, Javascript, para mobile foi usado Flutter e Python, com as 3 plataformas utilizando uma API para acessar o banco de dados SQL Server.
+- [Projeto 2 - Fazenda Urbana - Green City](https://github.com/math20122004/pimIV-Fazenda-Urbana): Confecção de Site de grenciamento de fazenda Urbana multiplatarforma, com 3 projetos diferentes, para desktop foi utilizado C# Visual Studio - Windows Forms, para Web Html, CSS, Javascript, para mobile foi usado Flutter e Python, com as 3 plataformas utilizando uma API para acessar o banco de dados SQL Server.
 
 
 
