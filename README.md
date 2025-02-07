@@ -1,6 +1,6 @@
 # Olá, eu sou o Niuan Souza! 👋
 
-Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologia e sempre em busca de aprender mais. Aqui você vai encontrar projetos que estou trabalhando e explorando.
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor Full Stack apaixonado por tecnologia, com formação em Análise e Desenvolvimento de Sistemas e atualmente cursando Banco de Dados. Aqui você encontrará projetos que desenvolvi, explorando diversas tecnologias e soluções criativas.
 
 ## 🚀 Tecnologias
 
@@ -12,28 +12,40 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ## 🛠 Projetos em destaque
 
-- [Projeto 1 - Public Private Bets](https://github.com/NiuanSouza/Public-Private-Bets): Código de um site de aposta nomeado de "Public Private Bets" desenvolvido como um projeto pessoal para testar aplicações de front e back end, utilizando PHP, HTML, CSS, Javascript e Sql.
+- **[Public Private Bets](https://github.com/NiuanSouza/Public-Private-Bets)**: Um site de apostas desenvolvido como projeto pessoal, utilizando PHP, HTML, CSS, JavaScript e MySQL. O objetivo foi testar e aplicar conhecimentos em front-end e back-end.
 
-- [Projeto 2 - Fazenda Urbana - Green City](https://github.com/math20122004/pimIV-Fazenda-Urbana): Confecção de Site de grenciamento de fazenda Urbana multiplatarforma, com 3 projetos diferentes, para desktop foi utilizado C# Visual Studio - Windows Forms, para Web Html, CSS, Javascript, para mobile foi usado Flutter e Python, com as 3 plataformas utilizando uma API para acessar o banco de dados SQL Server.
-
-
-
+- **[Fazenda Urbana - Green City](https://github.com/math20122004/pimIV-Fazenda-Urbana)**: Um sistema de gerenciamento de fazenda urbana multiplataforma, com versões para desktop (C# e Windows Forms), web (HTML, CSS, JavaScript) e mobile (Flutter e Python). Todas as plataformas utilizam uma API para acessar o banco de dados SQL Server.
 
 ## 📫 Como me encontrar
 
-- LinkedIn: [Niuan Spolidorio](https://br.linkedin.com/in/niuan-spolidorio-da-rocha-souza-8ba650215)
-- Email: niuan.spolid@hotmail.com
+- **LinkedIn**: [Niuan Spolidorio](https://br.linkedin.com/in/niuan-spolidorio-da-rocha-souza-8ba650215)
+- **Email**: niuan.spolid@hotmail.com
 
-## ⚡ Curiosidades sobre mim
+### 📊 Estatísticas
 
-- Sempre buscando aprender algo novo.
-- Apaixonado por resolver problemas e criar soluções criativas!
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
----
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
 
-Sinta-se à vontade para explorar os repositórios e entrar em contato!
+</p>
+
