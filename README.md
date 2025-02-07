@@ -29,23 +29,4 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor Full Stack apaixonado po
 - **LinkedIn**: [Niuan Spolidorio](https://br.linkedin.com/in/niuan-spolidorio-da-rocha-souza-8ba650215)
 - **Email**: niuan.spolid@hotmail.com
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
 
