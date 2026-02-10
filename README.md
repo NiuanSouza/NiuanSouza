@@ -1,12 +1,10 @@
 # Olá, eu sou o Niuan Souza! 👋
 
 Sou um **Desenvolvedor Full Stack** graduado em Análise e Desenvolvimento de Sistemas (ADS), com sólida base em **C#** e **Python**. Atualmente, estou aprimorando meus conhecimentos em **Banco de Dados**, focando na criação de soluções escaláveis e eficientes.
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NiuanSouza&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiuanSouza&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NiuanSouza&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NiuanSouza&layout=compact&theme=radical" alt="Linguagens mais usadas" />
 </div>
-
 ---
 
 ### 🛠️ Stack Tecnológica
