@@ -2,7 +2,13 @@
 
 Sou um **Desenvolvedor Full Stack** graduado em Análise e Desenvolvimento de Sistemas (ADS), com sólida base em **C#** e **Python**. Atualmente, estou aprimorando meus conhecimentos em **Banco de Dados**, focando na criação de soluções escaláveis e eficientes.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NiuanSouza&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiuanSouza&layout=compact&theme=radical" alt="Linguagens mais usadas" />
+</div>
+
 ---
+
 ### 🛠️ Stack Tecnológica
 
 | Categoria | Tecnologias |
@@ -25,7 +31,9 @@ Sou um **Desenvolvedor Full Stack** graduado em Análise e Desenvolvimento de Si
 
 ### 🐍 GitHub Contribution Snake
 
-![Snake animation](https://github.com/NiuanSouza/NiuanSouza/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NiuanSouza/NiuanSouza/output/github-snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
