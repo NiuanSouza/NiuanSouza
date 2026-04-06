@@ -20,10 +20,10 @@ Sou um **Desenvolvedor Full Stack** graduado em Análise e Desenvolvimento de Si
 
 ### 📂 Projetos em Destaque
 
-* **[API TechForce (FATEC)](https://github.com/Fatec-TechForce/API-2-Semestre)** - Desenvolvimento colaborativo com Scrum focado em demandas reais e engenharia de requisitos.
-* **[Ecommer-2.0](https://github.com/NiuanSouza/Ecommer-2.0)** - Plataforma de comércio eletrônico com foco em performance de banco de dados e checkout seguro.
-* **[Youtube-Like](https://github.com/NiuanSouza/Youtube-Like)** - Interface de streaming focada em UI/UX e manipulação de mídia dinâmica.
-* **[Fazenda Urbana - Green City](https://github.com/math20122004/pimIV-Fazenda-Urbana)** - Arquitetura multiplataforma operando em Desktop (C#), Web e Mobile.
+* **[API TechForce (FATEC)](https://github.com/Fatec-TechForce/API-2-Semestre)** - Projeto de manipulação de Trabalho de Curso.
+* **[Ecommer-2.0](https://github.com/NiuanSouza/Ecommer-2.0)** - Plataforma de comércio eletrônico.
+* **[Youtube-Like](https://github.com/NiuanSouza/Youtube-Like)** - Script para retirar likes do Youtube.
+* **[Fazenda Urbana - Green City](https://github.com/math20122004/pimIV-Fazenda-Urbana)** - Sistema de Gerenciamento de Fazenda Urbana.
 
 ---
 
